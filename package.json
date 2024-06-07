@@ -1,0 +1,11 @@
+{
+  "name": "wasm-game-of-life",
+  "version": "0.1.0",
+  "description": "Web Assembly (WASM) version of Conway's Game of Life",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0"
+}
